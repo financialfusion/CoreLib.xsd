@@ -1,0 +1,2 @@
+# CoreLib.xsd
+CoreLib.xsd
